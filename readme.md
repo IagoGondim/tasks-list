@@ -15,7 +15,7 @@ Precisa ter apenas o browser e algum editor de texto, minha preferência que use
 ### 🔧 Instalação
 
 ```
-Abra o arquivo pelo terminar e execute o yarn ou npm install, dependendo de qual gerenciamento de pacote esteja usando, após a instalação das dependencias, execute yarn dev ou npm start.
+Abra o arquivo pelo terminal e execute yarn ou npm install, dependendo de qual gerenciamento de pacote esteja usando, após a instalação das dependencias, execute yarn dev ou npm start.
 ```
 
 ## 🛠️ Construído com
