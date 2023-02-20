@@ -31,7 +31,7 @@ Ferramentas utilizadas no projeto
 Ainda não realizei o deploy
 
 ```
-... Link para acessar o projeto em produção
+https://task-list-focus.netlify.app/
 ```
 
 <div align="center" >
